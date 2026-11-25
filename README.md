@@ -69,4 +69,4 @@ Quase todo o código é privado (empresa e clientes); a arquitetura e os número
 
 </details>
 
-<sub>The banner is drawn by the same terrain engine as viniciusmagno.com: Perlin noise → marching squares → contour lines every 2 m, with a road centerline and stations.</sub>
+<sub>The banner is drawn by the same terrain engine as viniciusmagno.com (<a href="https://github.com/viniciusmagnos/viniciusmagno.com">source</a>): Perlin noise → marching squares → contour lines every 2 m, with a road centerline and stations.</sub>
